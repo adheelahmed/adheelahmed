@@ -21,7 +21,7 @@
   <a href="https://github.com/AdheelAhmed-D3CD"><img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" height="80px"/></a>
   </div>
   <div>  <br><br>
-<img src="https://komarev.com/ghpvc/?username=AdheelAhmed-D3CD&color=f833ff">
+<img src="https://komarev.com/ghpvc/?username=AdheelAhmed-D3CD&color=f833ff" height="100px">
     </div>
 
 <div align="center">
