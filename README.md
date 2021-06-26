@@ -1,5 +1,5 @@
 ### Hello There! 
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media2.giphy.com/media/fPSxQDOJ7bGso/200.gif" width="80px">
+<img src="https://media2.giphy.com/media/fPSxQDOJ7bGso/200.gif" width="80px">
 
 #### Adheel Ahmed Here 
 #### Im a :
