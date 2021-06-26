@@ -14,7 +14,6 @@
 ### -📱 Mobile App Dev
 
 ### -☁️ Cloud Computing
-<br>
 
 ## Follow me Here 👇
 
