@@ -20,7 +20,9 @@
 <a href="https://www.linkedin.com/in/adheel-ahmed-chelakkot-658023212/"><img src="https://i.pinimg.com/originals/d3/3b/d9/d33bd9baa83a336184055c07dc8ccaa8.gif" height="90px"/>
   <a href="https://github.com/AdheelAhmed-D3CD"><img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" height="80px"/></a>
   </div>
+  <div>
 <img src="https://komarev.com/ghpvc/?username=AdheelAhmed-D3CD&color=f833ff">
+    </div>
   <br><br>
 <div align="center">
   
