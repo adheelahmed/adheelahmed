@@ -9,10 +9,9 @@
 
 -🤖 ML Aspirant
 
--<div class="img-holder"><img src="https://media.tenor.com/images/217f0468962e1c1703c8719aca1b6b0b/tenor.gif" height="50px"></div>
- </div>
-  
-<br><br>
-<center>
+
+<br>
+  <div class="col-1">
+<img src="https://media.tenor.com/images/217f0468962e1c1703c8719aca1b6b0b/tenor.gif" height="50px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=AdheelAhmed-D3CD&&show_icons=true&title_color=70ffea&icon_color=66fffc&text_color=daf7dc&bg_color=151515">
-</center>
+ </div>
