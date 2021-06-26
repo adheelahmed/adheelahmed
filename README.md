@@ -5,15 +5,14 @@
 
 <div class="me">
 
-### -🐱‍👤 Code Devil
+-🐱‍👤 Code Devil
 
-### -🤖 ML Aspirant
+-🤖 ML Aspirant
 
-### -👨‍💻 Web Dev
+-👨‍💻 Web Dev
   
-### -📱 Mobile App Dev
-  
-### -☁️ Cloud Computing
+-📱 Mobile App Dev
+-☁️ Cloud Computing
   
 </div>
 <br><br>
