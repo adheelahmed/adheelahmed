@@ -15,7 +15,7 @@
 
 ### -☁️ Cloud Computing
 <br>
-<a src=""><img src="https://www.vocalzone.com/wp-content/uploads/2018/04/instagram-GIF-source.gif"/></a>
+<a src=""><img src="https://www.vocalzone.com/wp-content/uploads/2018/04/instagram-GIF-source.gif" height="30px"/></a>
 <img src="https://komarev.com/ghpvc/?username=AdheelAhmed-D3CD&color=f833ff">
 <div align="center">
 <img src="https://media.tenor.com/images/217f0468962e1c1703c8719aca1b6b0b/tenor.gif" width="40%"/> <img src="https://github-readme-stats.vercel.app/api?username=AdheelAhmed-D3CD&&count_private=true&show_icons=true&text_color=daf7dc&&theme=midnight-purple">
