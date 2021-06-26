@@ -17,7 +17,7 @@
   
 
 <div align="center">
-<img src="https://media.tenor.com/images/217f0468962e1c1703c8719aca1b6b0b/tenor.gif" width="40%"/> <img src="https://github-readme-stats.vercel.app/api?username=AdheelAhmed-D3CD&&count_private=true&show_icons=true&title_color=FF69B4&icon_color=cyan&text_color=daf7dc&&theme=radical">
+<img src="https://media.tenor.com/images/217f0468962e1c1703c8719aca1b6b0b/tenor.gif" width="40%"/> <img src="https://github-readme-stats.vercel.app/api?username=AdheelAhmed-D3CD&&count_private=true&show_icons=true&text_color=daf7dc&&theme=radical">
 ">
 </div>
 
