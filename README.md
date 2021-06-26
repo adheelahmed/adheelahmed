@@ -7,15 +7,15 @@
 
 ## Im a 🎯
 
-### -Code Devil 😈 
+### 😈 -Code Devil 
 
-### -ML Aspirant 🤖 
+### 🤖 -ML Aspirant  
 
-### -Web Dev 👨‍💻 
+### 👨‍💻 -Web Dev  
   
-### -Mobile App Dev 📱 
+### 📱 -Mobile App Dev 
 
-### -Cloud Computing ☁️ 
+### ☁️ -Cloud Computing  
 
 
 <div align="center">
