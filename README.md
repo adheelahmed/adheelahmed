@@ -7,8 +7,7 @@
 
 ## Im a 🎯
 
-<img src="https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif" height="50px">
-### - Code Devil 
+### - Code Devil <img src="https://i.pinimg.com/originals/4c/66/cc/4c66cc1e2788a1e6b88e55d4684d0313.gif" height="50px" style="background:red;">
 
 ### -🤖 ML Aspirant
 
