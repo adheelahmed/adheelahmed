@@ -9,7 +9,11 @@
 
 -🤖 ML Aspirant
 
-
+-👨‍💻 Web Dev
+  
+-📱 Mobile App Dev
+  
+-☁️ Cloud Computing
 <br>
 
 <img src="https://media.tenor.com/images/217f0468962e1c1703c8719aca1b6b0b/tenor.gif" height="200px"/>
