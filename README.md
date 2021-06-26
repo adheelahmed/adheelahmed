@@ -1,19 +1,19 @@
 # Hello There! Adheel Ahmed Here 
 <img src="https://media2.giphy.com/media/fPSxQDOJ7bGso/200.gif" width="20%">
 
-#### Im a :
+## Im a :
 
 
 
-#### -🐱‍👤 Code Devil
+### -🐱‍👤 Code Devil
 
-#### -🤖 ML Aspirant
+### -🤖 ML Aspirant
 
-#### -👨‍💻 Web Dev
+### -👨‍💻 Web Dev
   
-#### -📱 Mobile App Dev
+### -📱 Mobile App Dev
 
-#### -☁️ Cloud Computing
+### -☁️ Cloud Computing
   
 
 <div align="center">
