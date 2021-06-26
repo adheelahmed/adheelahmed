@@ -28,7 +28,7 @@
 </div>
 
   <div>  <br><br>
-<img src="https://komarev.com/ghpvc/?username=AdheelAhmed-D3CD&color=f833ff" height="50px">
+<img src="https://komarev.com/ghpvc/?username=AdheelAhmed-D3CD&color=f833ff" height="30px">
     </div>
 
 
