@@ -3,8 +3,6 @@
 
 ## Im a :
 
-
-
 ### -😈 Code Devil
 
 ### -🤖 ML Aspirant
