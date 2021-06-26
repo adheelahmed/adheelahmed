@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdheelAhmed-D3CD&&show_icons=true&title_color=ffffff&icon_color=66fffc&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=AdheelAhmed-D3CD&&show_icons=true&title_color=66fff&icon_color=66fffc&text_color=daf7dc&bg_color=151515">
 
