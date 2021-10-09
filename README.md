@@ -2,20 +2,9 @@
 
 # Hello There!
 <img src="https://media2.giphy.com/media/fPSxQDOJ7bGso/200.gif" width="30%">
-
 </div>
 
-## Im a 🎯
-
-### 😈 Code Devil 
-
-### 🤖 ML Aspirant  
-
-### 👨‍💻 Web Dev  
-  
-### 📱 Mobile App Dev 
-
-### ☁️ Cloud Computing  
+## Coffee and Code
 
 
 <div align="center">
