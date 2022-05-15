@@ -1,8 +1,4 @@
-<div align="center">
-
 # Hello There!
-<img src="https://media2.giphy.com/media/fPSxQDOJ7bGso/200.gif" width="30%">
-</div>
 
 ## Coffee and Code
 
