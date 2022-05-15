@@ -1,4 +1,3 @@
-# Hello There!
 ## Coffee and Code
 # Follow me Here 👇
 
