@@ -1,8 +1,3 @@
-<div align="center">
-  
-# Coffee and Code
-  
-</div>
 <div align="center"><br>
 <img src="./images/Ahmed.png" width="100%"/> 
 </div>
